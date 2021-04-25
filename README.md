@@ -4,7 +4,7 @@
 
 Criar um frontend em React + Material UI no qual irá consumir as API's criadas no backend
 
-### Primeiro passo:
+### Primeiro passo
 Criar uma pasta para clonar este repositório
 ```
 mkdir projectFrontend
@@ -12,14 +12,14 @@ cd projectFrontend
 git clone https://github.com/RaphaelLima123/fbenevides-frontend.git .
 ```
 
-### Segundo passo:
-Dentro da pasto do projeto instalar as dependências:
+### Segundo passo
+Dentro da pasto do projeto instalar as dependências
 ```
 yarn
 ```
 
-### Ternceiro passo:
-Rodar o projeto:
+### Ternceiro passo
+Rodar o projeto
 ```
 yarn start
 ```
