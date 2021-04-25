@@ -18,7 +18,7 @@ Dentro da pasto do projeto instalar as dependências:
 yarn
 ```
 
-### Ternceiro pass:
+### Ternceiro passo:
 Rodar o projeto:
 ```
 yarn start
